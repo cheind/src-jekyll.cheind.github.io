@@ -11,9 +11,16 @@ Then
 ```
 $ cd <your-repo-name>
 $ sudo bundle install
-$ sudo bundle exec jekyll serve --livereload --unpublished --incremental
+$ sudo bundle exec jekyll serve --livereload
 ```
 Issues?
 ```
-rm -r .site .jekyll-cache
+$ sudo rm -r .site .jekyll-cache
+$ ps aux | grep jekyll
+$ sudo kill -9 PID
+```
+Deploy
+```
+$ git remote add cheind-io https://github.com/cheind/cheind.github.io.git
+$ ./bin/deploy
 ```
