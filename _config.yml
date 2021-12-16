@@ -66,8 +66,7 @@ stackoverflow_id: #your stackoverflow id
 
 rss_icon: true
 
-contact_note: >
-  Reach me via E-Mail.
+contact_note: 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
