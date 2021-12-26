@@ -16,6 +16,6 @@ social: true  # includes social icons at the bottom of the page
 I am a research scientist at PROFACTOR working at the interface of computer vision and robotics. My focus is on probabilistic approaches to create self-optimized artificial training data. 
 
 I received my doctoral degree (with distinction) from JKU in the field of computer vision and machine learning.
-Recently, I created a widely used real-time 3D reconstruction software called [ReconstructMe](https://www.reconstructme.net/) and initiated several popular [open source projects](https://github.com/cheind).
+Recently, I initiated several popular [open source projects](https://github.com/cheind) and created a widely used real-time 3D reconstruction software called [ReconstructMe](https://www.reconstructme.net/).
 
 You can find a little more about the work I do in [my CV](assets/pdf/CV_cheind.pdf).
